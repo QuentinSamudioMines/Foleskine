@@ -68,6 +68,8 @@ Chaque carnet est sauvegardé en JSON avec la structure suivante :
   "updated_at": "2025-08-26T12:34:56",
   "pages": ["Page 1 texte", "Page 2 texte", ...]
 }
+```
+---
 
 ## Contribuer
 
@@ -77,6 +79,8 @@ Respecter le style et la structure du code.
 
 Soumettre une pull request.
 
-Licence
+---
+
+## Licence
 
 Ce projet est open source sous licence MIT.
